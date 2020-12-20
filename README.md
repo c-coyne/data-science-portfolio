@@ -12,7 +12,7 @@ This repository contains my portfolio of data science projects that I completed 
 
 ### Data Cleaning, Processing & Extracting
 
-   - Scraping Data off Unstructured PDFs (SEC ADV Forms): Python script that uses the Tika library to parse PDFs and RegEx to pull data of interest.
+   - [Scraping Data off Unstructured PDFs (SEC ADV Forms)](https://github.com/c-coyne/data_science_portfolio/tree/main/Data%20Cleaning%2C%20Processing%20%26%20Extracting/Scraping%20Data%20off%20Unstructured%20PDFs%20(SEC%20ADV%20Forms)): Python script that uses the Tika library to parse PDFs and RegEx to pull data of interest. This script is specific to Form ADV (Uniform Application for Investment Adviser Registration and Report by Exempt Reporting Advisers) from the U.S. Securities and Exchange Commission (SEC).
 
 ### Applied Data Analysis
 
