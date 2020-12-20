@@ -5,6 +5,11 @@ Created on Wed Dec 16 17:13:01 2020
 @author: CCOYNE1
 """
 
+# Many PDFs can be read and processed with PyPDF2, which is
+# a very straightforward library for working with PDFs in Python.
+# In the case of unstructured PDFs, however, we'll use the Tika
+# library instead.
+
 # Import a library designed to read PDFs
 from tika import parser
 
