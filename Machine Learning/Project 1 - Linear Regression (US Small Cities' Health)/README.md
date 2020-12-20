@@ -1,4 +1,4 @@
 # Project 1: Linear Regression
 ## US Small Cities' Health
 
-This project...
+This project uses linear regression with one variable to predict the death rate per 1,000 residents in a small town in the United States ([data source](https://college.cengage.com/mathematics/brase/understandable_statistics/7e/students/datasets/mlr/frames/frame.html)). While this could be done very succinctly with pre-built models and APIs, this exercise goes through the manual process of building a regression model from scratch. Therefore, first we examine our data to better understand the dataset we're working with. Then we use gradient descent with a simple cost function to optimize model parameters. Lastly, we visualize both the results of the regression analysis as well as the sensitivity of the cost function to model parameters, and evaluate statistic significant with hypothesis testing.
