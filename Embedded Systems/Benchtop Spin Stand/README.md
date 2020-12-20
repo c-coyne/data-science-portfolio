@@ -1,2 +1,4 @@
+# Embedded Systems
+## Benchtop Spin Stand
 
-C++ / Arduino code to operate a stand-alone benchtop spin stand designed to evaluate gasket retention when subjected to force experienced during shipping. The spin stand includes 24V, 12V and 5V circuits; internal LEDs; multiple potentiometers to facilitate user input; dual 20x4 LCD screens with I2C serial interface adapters; front and rear fan circuits; and multiple switches for real-time customization of the testing equipment.
+This project included the design, development, sourcing, fabrication & testing of all mechanical, electrical, and software components of a benchtop spin stand designed to evaluate gasket retention performance when subjected to typical shipping load conditions and configurations. Presented here are pictures of the of the 3D-printed final assembly (mechanical), full schematic (electrical), and Arduino (C++) code that enables stand-alone operation with custom user input (software).
