@@ -15,11 +15,17 @@ This repository contains my portfolio of data science projects that I completed 
 ### Data Cleaning, Processing & Extracting
 
    - [Scraping Data off Unstructured PDFs (SEC ADV Forms)](https://github.com/c-coyne/data_science_portfolio/tree/main/Data%20Cleaning%2C%20Processing%20%26%20Extracting/Scraping%20Data%20off%20Unstructured%20PDFs%20(SEC%20ADV%20Forms)): Python script that uses the Tika library to parse PDFs and RegEx to pull data of interest. This script is specific to Form ADV (Uniform Application for Investment Adviser Registration and Report by Exempt Reporting Advisers) from the U.S. Securities and Exchange Commission (SEC).
+   
+   *Tools: Tika, RegEx*
 
 ### Applied Data Analysis
 
    - [Capability Study Analysis (Cure-in-Place Gaskets)](https://github.com/c-coyne/data_science_portfolio/tree/main/Applied%20Data%20Analysis/Cure-in-Place%20Gasket%20Process%20Capability): Data cleaning and analysis for process capability of a liquid-dispensed cure-in-place gasket. The capability study included 5 parts measured with a robot-mounted vision system tracing dry and wet bead height/width/volume, resulting in 128,072 datapoints.
+   
+   *Tools: Pandas, Numpy, Scipy, Matplotlib*
 
 ### Embedded Systems
 
    - [Standalone Benchtop Spin Stand](https://github.com/c-coyne/data_science_portfolio/tree/main/Embedded%20Systems/Benchtop%20Spin%20Stand): C++ / Arduino code to operate a stand-alone benchtop spin stand designed to evaluate gasket retention when subjected to force experienced during shipping. The spin stand includes 24V, 12V and 5V circuits; internal LEDs; multiple potentiometers to facilitate user input; dual 20x4 LCD screens with I2C serial interface adapters; front and rear fan circuits; and multiple switches for real-time customization of the testing equipment.
+   
+   *Tools: LiquidCrystal_I2C, Wire, attachInterrupt*
