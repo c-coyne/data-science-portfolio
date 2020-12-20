@@ -10,7 +10,7 @@ This repository contains my portfolio of data science projects that I completed 
   - [Multi-Class Classification (Handwritten Digits)](https://github.com/c-coyne/data_science_portfolio/tree/main/Machine%20Learning/Project%202%20-%20Multi-Class%20Classification%20(Handwritten%20Digits)): A logistic regression multi-class classifier model trained and tested to read handwritten digits. The model is built from scratch and includes a discussion of the sigmoid hypothesis function, constituents of the cost function, vectorization, and model assessment if the model were to be improved.
   - [Support Vector Machines (Heart Disease Diagnosis)](https://github.com/c-coyne/data_science_portfolio/tree/main/Machine%20Learning/Project%203%20-%20SVM%20Classifiers%20(Heart%20Disease%20Diagnosis)): A support vector machine (SVM) classifier built to diagnose heart disease in patients based on other patient health information. The project includes an example linear and non-linear 2D SVM classifier to exemplify the concept, then applies the same principles to a 13-attribute dataset. The hyperparameters are then optimized to improve model performance.
   
-  *Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Numpy, Scipy, Plotly
+  *Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Numpy, Scipy, Plotly*
 
 ### Data Cleaning, Processing & Extracting
 
