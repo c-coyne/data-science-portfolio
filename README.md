@@ -12,7 +12,7 @@ This repository contains my portfolio of data science projects that I completed 
 
 ### Data Cleaning, Processing & Extracting
 
-   - Scraping Data off Unstructured PDFs (SEC ADV Forms): ...
+   - Scraping Data off Unstructured PDFs (SEC ADV Forms): Python script that uses the Tika library to parse PDFs and RegEx to pull data of interest.
 
 ### Applied Data Analysis
 
