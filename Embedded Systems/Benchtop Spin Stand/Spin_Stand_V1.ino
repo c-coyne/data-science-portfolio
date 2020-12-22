@@ -339,6 +339,9 @@ void loop() {
     // Otherwise, conduct the constant speed phase as normal
     else {
     for (int i = 1; i <= TEST_write; i++) {
+      // If shutdown button is engaged during the constant speed phase, jump to the end
+      if (digitalRead(buttonSD) == HIGH) { i = 2*TEST_write; }
+      // Otherwise, conduct the constant speed phase as normal
       // Calculate the velocity of the motor
       calculateVelocity(); 
       // Update the variables used to calculate velocity
