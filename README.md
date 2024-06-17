@@ -25,8 +25,3 @@ This repository contains my portfolio of data science projects that I completed 
    
    *Tools: Pandas, Numpy, Scipy, Matplotlib*
 
-### Embedded Systems
-
-   - [Standalone Benchtop Spin Stand](https://github.com/c-coyne/data_science_portfolio/tree/main/Embedded%20Systems/Benchtop%20Spin%20Stand): C++ / Arduino code to operate a stand-alone benchtop spin stand designed to evaluate gasket retention when subjected to force experienced during shipping. The spin stand includes 24V, 12V and 5V circuits; internal LEDs; multiple potentiometers to facilitate user input; dual 20x4 LCD screens with I2C serial interface adapters; front and rear fan circuits; and multiple switches for real-time customization of the testing equipment.
-   
-   *Tools: LiquidCrystal_I2C, Wire, attachInterrupt*
