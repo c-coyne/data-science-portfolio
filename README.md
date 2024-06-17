@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-This repository contains my portfolio of data science projects that I completed either for professional purposes or for self-development and education. I completed most projects in Python using Jupyter Notebooks, but the embedded systems project uses C++ / Arduino.
+This repository contains my portfolio of data science projects that I completed either for professional purposes or for self-development and education. I completed most projects in Python using Jupyter Notebooks.
 
 ## Contents
 
